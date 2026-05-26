@@ -7,7 +7,6 @@
 **CommuAI** é um assistente inteligente baseado em **Custom GPT** que ajuda colaboradores a escreverem textos corporativos de forma rápida, profissional e consistente.
 
 Desenvolvido como trabalho acadêmico para auxiliar na comunicação interna (e-mails, resumos de reunião, comunicados e mensagens de WhatsApp).
-
 ---
 
 ## 🎯 Problema Resolvido
@@ -17,7 +16,6 @@ Desenvolvido como trabalho acadêmico para auxiliar na comunicação interna (e-
 - Perda de tempo em tarefas administrativas
 
 ---
-
 ## ✨ Funcionalidades
 
 - Geração de e-mails profissionais
