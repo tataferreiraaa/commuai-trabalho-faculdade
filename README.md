@@ -1,5 +1,5 @@
 # CommuAI - Assistente de Comunicação Corporativa
-
+https://chatgpt.com/g/g-6a15f13a72308191a0d74714e0e0b006-commuai
 ![CommuAI](https://via.placeholder.com/800x400?text=CommuAI+-+Assistente+IA)
 
 ## 📋 Sobre o Projeto
