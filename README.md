@@ -5,7 +5,6 @@ https://chatgpt.com/g/g-6a15f13a72308191a0d74714e0e0b006-commuai
 ## 📋 Sobre o Projeto
 
 **CommuAI** é um assistente inteligente baseado em **Custom GPT** que ajuda colaboradores a escreverem textos corporativos de forma rápida, profissional e consistente.
-
 Desenvolvido como trabalho acadêmico para auxiliar na comunicação interna (e-mails, resumos de reunião, comunicados e mensagens de WhatsApp).
 ---
 
