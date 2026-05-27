@@ -46,6 +46,7 @@ flowchart TD
     E --> F[Usuário Revisa]
     F -->|Ajustes| D   
     F -->|Aprovado| G[Usa o Texto]
+<img width="3352" height="7456" alt="CommuAI Text Generation-2026-05-27-033236" src="https://github.com/user-attachments/assets/3ed1132d-1455-4eef-8767-6204023086e2" />
 
 ## Demonstrações
 
